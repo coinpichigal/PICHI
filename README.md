@@ -11,3 +11,4 @@ test1
 readme
 yes
 no
+YES
